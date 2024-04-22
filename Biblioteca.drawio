@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-22T10:06:30.009Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="Eb5UCHVxhN59B-pPVU_P" version="24.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-22T11:47:02.196Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="PPS2gpBmYgAHf6KucrIr" version="24.2.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1066" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -14,7 +14,7 @@
           <mxGeometry x="355" y="30" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RyBow-MhRmT2pveP808p-1" value="Fine" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="355" y="650" width="90" height="60" as="geometry" />
+          <mxGeometry x="355" y="720" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RyBow-MhRmT2pveP808p-4" value="Read File&amp;nbsp;&lt;div&gt;libri.txt&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="331" y="130" width="130" height="50" as="geometry" />
@@ -94,29 +94,54 @@
             <mxPoint x="399" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RyBow-MhRmT2pveP808p-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RyBow-MhRmT2pveP808p-26" target="RyBow-MhRmT2pveP808p-1">
+        <mxCell id="RyBow-MhRmT2pveP808p-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RyBow-MhRmT2pveP808p-38" target="RyBow-MhRmT2pveP808p-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="470" as="sourcePoint" />
             <mxPoint x="440" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RyBow-MhRmT2pveP808p-36" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-7" target="RyBow-MhRmT2pveP808p-1">
+        <mxCell id="RyBow-MhRmT2pveP808p-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="170" y="585" as="sourcePoint" />
-            <mxPoint x="220" y="535" as="targetPoint" />
+            <mxPoint x="390" y="560" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="190" y="680" />
+              <mxPoint x="190" y="560" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RyBow-MhRmT2pveP808p-37" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RyBow-MhRmT2pveP808p-27" target="RyBow-MhRmT2pveP808p-1">
+        <mxCell id="RyBow-MhRmT2pveP808p-37" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RyBow-MhRmT2pveP808p-27">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="590" y="650" as="sourcePoint" />
-            <mxPoint x="640" y="600" as="targetPoint" />
+            <mxPoint x="410" y="560" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="602" y="680" />
+              <mxPoint x="602" y="560" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="RyBow-MhRmT2pveP808p-39" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RyBow-MhRmT2pveP808p-26" target="RyBow-MhRmT2pveP808p-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="510" as="sourcePoint" />
+            <mxPoint x="396" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RyBow-MhRmT2pveP808p-38" value="scelta = 0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="570" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RyBow-MhRmT2pveP808p-41" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.108;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RyBow-MhRmT2pveP808p-38" target="RyBow-MhRmT2pveP808p-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="530" as="sourcePoint" />
+            <mxPoint x="440" y="480" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="30" y="610" />
+              <mxPoint x="30" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RyBow-MhRmT2pveP808p-43" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font size=&quot;3&quot;&gt;no&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="290" y="580" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RyBow-MhRmT2pveP808p-45" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font size=&quot;3&quot;&gt;si&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="370" y="660" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
